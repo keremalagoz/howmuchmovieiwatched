@@ -1,0 +1,11 @@
+/.venv
+/Raporlar
+/__pycache__
+
+# API Keys and Configuration
+.env
+omdb_config.json
+*.log
+
+# Temporary files
+*_temp_*.csv
